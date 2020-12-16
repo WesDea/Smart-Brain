@@ -11,3 +11,11 @@ link: https://www.clarifai.com/
 
 Not exactly. While i did follow along with the great tutorials in the course, I have made some modifications. 
 Mostly to catching errors and displaying error messages to the user if/when they run into them while using the app.
+I may make further changes as time goes on.
+
+# How do I use the App?
+1. Register/sign-in
+2. Find an image with a face in it (google ect.)
+3. Right Click and select 'Copy Image Location'
+4. Paste the link into the input field
+5. The app will display the image with a blue box around the face
